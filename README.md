@@ -1,2 +1,3 @@
 # chatgpt-website-list
-收集了50给免费以及收费的Chatgpt镜像网站。Collected 50 free and paid Chatgpt mirror sites
+以下收集了50个国内能直接使用的人工智能Chatgpt在线地址，亲测可用。
+站点均收集于互联网，包含免费、试用和收费站点，请大家自行甄选测试，在使用过程中，注意保护好自己的个人隐私。
